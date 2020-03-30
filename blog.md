@@ -3,13 +3,13 @@ layout: page
 title: Jekyll Theme - Blog Page - Massively
 description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
 sitemap:
-    priority: 1.0
+    priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
 ## Concert Works
 
-{% sc_player https://soundcloud.com/user-932974187/syzygy-a-cosmic-odyssey}
+{% sc_player https://soundcloud.com/user-932974187/syzygy-a-cosmic-odyssey %}
 
 Robby Good (b. July 2, 2000, Valencia, CA) is a composition and percussion performance major at UCLA. Robby has been playing piano from the age of 6, picking up percussion at age 9, and composing at the age of 12. During high school, he was accepted into the Nancy and Barry Sanders Los Angeles Philharmonic Composer Fellowship Program, where he studied under Andrew Norman (USC/Juilliard) and Sarah Gibson (USC/UCSB). Robby has also studied with Ian Krouse (UCLA), Derrick Spiva (Bridge to Everywhere), and David Lefkowitz (UCLA), and has been a music mentee under the guidance of visual media composer/performer Michael A. Levine.
 
