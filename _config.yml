@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            https://twitter.com/robbygoodmusic
+twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+linkedin:           default
 
 # personal
 location:           Los Angeles, CA
