@@ -11,15 +11,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            https://twitter.com/robbygoodmusic
 facebook:           default
 instagram:          default
 github:             default
 
 # personal
 location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+phone:              661-713-6783
+email:              robbygoodmusic@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
