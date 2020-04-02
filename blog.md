@@ -7,16 +7,22 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Syzygy (A Cosmic Odyssey)
+## Syzygy (A Cosmic Odyssey) - 2018
 
-For wind ensemble, c. 8 min.
+For wind ensemble, c. 8'00"
 
 <iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786545131&color=%23ff5500&auto_play=false&hide_related=true&show_comments=flase&show_user=falsee&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1Sum1Kmjvf__YlwQUaYWNT0PC40BarpQp/preview" width="50%" height="200%"></iframe>
 
-Robby Good (b. July 2, 2000, Valencia, CA) is a composition and percussion performance major at UCLA. Robby has been playing piano from the age of 6, picking up percussion at age 9, and composing at the age of 12. During high school, he was accepted into the Nancy and Barry Sanders Los Angeles Philharmonic Composer Fellowship Program, where he studied under Andrew Norman (USC/Juilliard) and Sarah Gibson (USC/UCSB). Robby has also studied with Ian Krouse (UCLA), Derrick Spiva (Bridge to Everywhere), and David Lefkowitz (UCLA), and has been a music mentee under the guidance of visual media composer/performer Michael A. Levine.
+Performance by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel.
 
-Robby’s concert works have been premiered by ensembles such as the Los Angeles Philharmonic, the International Contemporary Ensemble (ICE), the National Children’s Chorus (NCC), the Los Angeles Percussion Quartet (LAPQ), the Calder String Quartet, the Kaleidoscope Chamber Orchestra, Winsor Music, Ensemble TM+, and the CSUN Wind Ensemble. For visual media, Robby has scored a number of student animations at UCLA and CalArts, and was a 3-time finalist in the Marvin Hamlisch Film Scoring Contest's Youth Category.
+## A Storm's Passing (Rise and Fall of a New Horizon) - 2016
 
-As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and currently studies concert percussion at UCLA with Professors Gregory Goodall and Theresa Dimond.
+For wind ensemble, c. 6'15"
+
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786545131&color=%23ff5500&auto_play=false&hide_related=true&show_comments=flase&show_user=falsee&show_reposts=false&show_teaser=true&visual=false"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1Sum1Kmjvf__YlwQUaYWNT0PC40BarpQp/preview" width="50%" height="200%"></iframe>
+
+Performance by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel.
