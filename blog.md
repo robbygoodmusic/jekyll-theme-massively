@@ -7,6 +7,11 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
+<header class="major">
+	<h1>Visual Media Scores</h1>
+</header>
+
 ## Syzygy (A Cosmic Odyssey)
 
 For wind ensemble, c. 8'00" - 2017/18
