@@ -9,9 +9,11 @@ sitemap:
 ---
 ## Concert Works
 
+Syzygy (A Cosmic Odyssey) - for Wind Ensemble, c. 8 min.
+
 <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786545131&color=%23ff5500&auto_play=false&hide_related=true&show_comments=flase&show_user=falsee&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1Sum1Kmjvf__YlwQUaYWNT0PC40BarpQp/preview" width="30%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1Sum1Kmjvf__YlwQUaYWNT0PC40BarpQp/preview" width="50%" height="200%"></iframe>
 
 Robby Good (b. July 2, 2000, Valencia, CA) is a composition and percussion performance major at UCLA. Robby has been playing piano from the age of 6, picking up percussion at age 9, and composing at the age of 12. During high school, he was accepted into the Nancy and Barry Sanders Los Angeles Philharmonic Composer Fellowship Program, where he studied under Andrew Norman (USC/Juilliard) and Sarah Gibson (USC/UCSB). Robby has also studied with Ian Krouse (UCLA), Derrick Spiva (Bridge to Everywhere), and David Lefkowitz (UCLA), and has been a music mentee under the guidance of visual media composer/performer Michael A. Levine.
 
