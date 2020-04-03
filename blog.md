@@ -13,6 +13,7 @@ sitemap:
 </header>
 
 (Send me an email if you'd like to purchase any music!)
+<hr />
 
 ## Syzygy (A Cosmic Odyssey)
 
