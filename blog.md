@@ -9,7 +9,7 @@ sitemap:
 ---
 
 <header class="major">
-	<h1>Visual Media Scores</h1>
+	<h1>Concert Works</h1>
 </header>
 
 ## Syzygy (A Cosmic Odyssey)
