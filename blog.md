@@ -12,6 +12,8 @@ sitemap:
 	<h1>Concert Works</h1>
 </header>
 
+(Send me an email if you'd like to purchase any music!)
+
 ## Syzygy (A Cosmic Odyssey)
 
 For wind ensemble, c. 8'00" - 2017/18
@@ -22,6 +24,7 @@ For wind ensemble, c. 8'00" - 2017/18
 
 Performed by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel at the Younes and Soraya Nazarian Center for the Performing Arts - November 29, 2018.
 
+<hr />
 
 ## Cry For Love
 
@@ -33,6 +36,7 @@ For SSA choir + piano, c. 4'00" - 2016
 
 Performed by the National Children's Chorus (Los Angeles Division) under Assistant Conductor Alexander Lloyd Blake at Royce Hall (UCLA) - May 10, 2017.
 
+<hr />
 
 ## A Storm's Passing (Rise and Fall of a New Horizon)
 
