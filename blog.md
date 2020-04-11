@@ -12,7 +12,7 @@ sitemap:
 	<h1>Concert Works</h1>
 </header>
 
-(Send me an email if you'd like to purchase any music!)
+<b>Send me an email if you'd like to purchase any music!</b>
 <hr />
 
 ## Syzygy (A Cosmic Odyssey)

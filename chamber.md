@@ -9,10 +9,10 @@ sitemap:
 ---
 
 <header class="major">
-	<h1>Concert Works</h1>
+	<h1>Chamber Works</h1>
 </header>
 
-(Send me an email if you'd like to purchase any music!)
+<b>Send me an email if you'd like to purchase any music!</b>
 <hr />
 
 ## Syzygy (A Cosmic Odyssey)
