@@ -33,9 +33,7 @@ For orchestra, c. 3'00" - 2016/17
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dwX9Jheg50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Score is property of the Los Angeles Philharmonic and is unavailable for purchase.
-
-<br />
+<b>Score is property of the Los Angeles Philharmonic and is unavailable for purchase.</b>
 
 Performed by the Los Angeles Philharmonic at the Walt Disney Concert Hall as a part of the Symphonies for Schools concert series - March 10, 2017.
 
