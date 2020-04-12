@@ -26,24 +26,103 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Click <a href="">here</a> to read the accompanying article!
 
 ## Articles and Press Releases
 
 <a href="http://archive.signalscv.com/archives/120662/" class="image left"><img src="{{ "/images/signal.jpg" | absolute_url }}" alt="" /></a>
-	<span class="image fit"><img src="/images/pic01.jpg" alt="" /></span>
-	<div class="box alt">
-		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="/images/pic02.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="/images/pic03.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
-			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="/images/pic05.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="/images/pic01.jpg" alt="" /></span></div>
-			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="/images/pic02.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="/images/pic03.jpg" alt="" /></span></div>
-		</div>
+
+	<h2>Table</h2>
+
+	<h3>Default</h3>
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Description</th>
+					<th>Price</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Item 1</td>
+					<td>This item costs money.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 2</td>
+					<td>And this one is not free either.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 3</td>
+					<td>Here we have another item.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 4</td>
+					<td>More items and stuff.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 5</td>
+					<td>The last item and stuff.</td>
+					<td>29.99</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
 	</div>
+
+	<h3>Alternate</h3>
+	<div class="table-wrapper">
+		<table class="alt">
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Description</th>
+					<th>Price</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Item 1</td>
+					<td>This item costs money.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 2</td>
+					<td>And this one is not free either.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 3</td>
+					<td>Here we have another item.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 4</td>
+					<td>More items and stuff.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 5</td>
+					<td>The last item and stuff.</td>
+					<td>29.99</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+
+	<hr />
