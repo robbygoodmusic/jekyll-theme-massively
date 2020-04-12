@@ -59,7 +59,7 @@ For string quartet, c. 5'30" - 2017
 
 <iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
 
-Read by the Calder String Quartet at the Walt Disney Concert Hall (BP Hall) - May 10, 2017.
+Read by the Calder String Quartet at the Walt Disney Concert Hall (BP Hall) - March 18, 2017.
 
 <hr />
 
