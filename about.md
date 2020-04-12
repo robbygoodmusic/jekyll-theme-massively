@@ -31,9 +31,20 @@ Click <a href="">here</a> to read the accompanying article!
 ## Articles and Press Releases
 
 <a href="http://archive.signalscv.com/archives/120662/" class="image left"><img src="{{ "/images/signal.jpg" | absolute_url }}" alt="" /></a>
-<span class="image fit"><img src="/images/pic01.jpg" alt="" /></span>
+<h3>Fit</h3>
+	<span class="image fit"><img src="/images/pic01.jpg" alt="" /></span>
 	<div class="box alt">
 		<div class="row 50% uniform">
 			<div class="4u"><span class="image fit"><img src="/images/pic02.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="/images/pic03.jpg" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="/images/pic05.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/images/pic01.jpg" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="/images/pic02.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="/images/pic04.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/images/pic03.jpg" alt="" /></span></div>
+		</div>
+	</div>
