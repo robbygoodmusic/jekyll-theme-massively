@@ -81,7 +81,7 @@ For bass flute + loop pedal, c. 3'45" - 2016
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1suRCBrMuaI?start=943" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="400%"></iframe>
 
 Performed by Alice Teyssier from the International Contemporary Ensemble (ICE) at the Libbey Bowl as a part of the Ojai Music Festival - June 12, 2016.
 
