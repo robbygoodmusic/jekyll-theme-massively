@@ -15,8 +15,6 @@ Robby Good (b. July 2, 2000, Valencia, CA) is a composition and percussion perfo
 
 <span class="image right"><img src="{{ "/images/vibes.PNG" | absolute_url }}" alt="" /></span>
 
-<br />
-
 Robby’s concert works have been premiered by ensembles such as the Los Angeles Philharmonic, the International Contemporary Ensemble (ICE), the National Children’s Chorus (NCC), the Los Angeles Percussion Quartet (LAPQ), the Calder String Quartet, the Kaleidoscope Chamber Orchestra, Winsor Music, Ensemble TM+, and the CSUN Wind Ensemble. For visual media, Robby has scored a number of student animations at UCLA and CalArts, and was a 3-time finalist in the Marvin Hamlisch Film Scoring Contest's Youth Category.
 
 As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and currently studies concert percussion at UCLA with Professors Gregory Goodall and Theresa Dimond.
@@ -31,7 +29,7 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Interview with Santa Clarita Valley Signal: <b>"Placerita Jr. High Student Leads 65-piece Orchestra"</b> - May 14, 2014. 
+<b>Interview with Santa Clarita Valley Signal: "Placerita Jr. High Student Leads 65-piece Orchestra"</b> - May 14, 2014. 
 
 <hr />
 
