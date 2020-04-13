@@ -21,17 +21,7 @@ Robby’s concert works have been premiered by ensembles such as the Los Angeles
 
 As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and currently studies concert percussion at UCLA with Professors Gregory Goodall and Theresa Dimond.
 
-<h1>Press</h1>
-
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Articles and Press Releases
-
-<a href="http://archive.signalscv.com/archives/120662/" class="image left"><img src="{{ "/images/signal.jpg" | absolute_url }}" alt="" /></a>
-
-	<h2>Table</h2>
+<h2>Table</h2>
 
 	<h3>Default</h3>
 	<div class="table-wrapper">
@@ -126,3 +116,15 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 	</div>
 
 	<hr />
+
+
+<h1>Press</h1>
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Articles and Press Releases
+
+<a href="http://archive.signalscv.com/archives/120662/" class="image left"><img src="{{ "/images/signal.jpg" | absolute_url }}" alt="" /></a>
+
