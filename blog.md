@@ -13,16 +13,17 @@ sitemap:
 </header>
 
 <b>Send me an email if you'd like to purchase any music!</b>
+
 <hr />
 
 ## Always In the Music
 
 For concert band + solo voice, c. 6'45" - 2018
 
-<b>High School Edition</b>          <b>Junior High Edition</b>
+<b>Both High School Edition and Junior High Edition available:</b>
 <iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="49%" height="200%"></iframe>
 
 <italic>"Always In The Music was commissioned as a way of saying goodbye for the retirement of Ms. Kathryn Spula, my music teacher at Placerita Junior High School. Ms. Spula will always hold a place in my heart as the woman that gave me my very first experience of having one of my own pieces played by a group of live musicians (funnily enough, it was an arrangement of music from The Legend of Zelda), and for giving me my first conductor’s baton.
 This piece has two distinct themes - the opening piano solo melody that comes back multiple times throughout the piece, and the Hart High School alma mater, in tribute to the next step in the junior high schoolers’ lives. Also present are a few references to the above- mentioned Legend of Zelda medley I had written for the Placerita ensemble all those years ago.
