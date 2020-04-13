@@ -23,6 +23,10 @@ For wind ensemble, c. 8'00" - 2017/18
 
 <iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
 
+"Syzygy is a rare word, usually found as an astronomical term. It is defined as “the alignment of three celestial bodies,” typically in reference to the Earth, the Moon, and the Sun, such as in the form of a full moon, a new moon, or, in this particular case, an eclipse. On August 21, 2017, the entirety of North America and regions of the neighboring countries and continents stopped to bare witness to a total solar eclipse, an event that is about as rare as the title of this piece. In that small window of time, there was an incredible unity of mankind, all sharing a single, beautiful moment together in this giant shadow. After that event, I realized that music was the perfect parallel: when people listen to music, for that brief moment, they let themselves out of their shackles and put aside their judgments to allow their emotions to escape. In summation, that is exactly what music can so easily be: a momentary escape into absolute freedom. During this astronomical alignment, this “syzygy,” everybody seemed to have the same idea, and really, what a great idea it was. After all, what better place could someone choose to escape all of their problems in than space?"
+
+<br />
+
 Performed by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel at the Younes and Soraya Nazarian Center for the Performing Arts - November 29, 2018.
 
 <hr />
