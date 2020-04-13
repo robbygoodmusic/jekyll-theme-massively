@@ -21,104 +21,9 @@ Robby’s concert works have been premiered by ensembles such as the Los Angeles
 
 As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and currently studies concert percussion at UCLA with Professors Gregory Goodall and Theresa Dimond.
 
-<h2>Table</h2>
-
-	<h3>Default</h3>
-	<div class="table-wrapper">
-		<table>
-			<thead>
-				<tr>
-					<th>Name</th>
-					<th>Description</th>
-					<th>Price</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Item 1</td>
-					<td>This item costs money.</td>
-					<td>29.99</td>
-				</tr>
-				<tr>
-					<td>Item 2</td>
-					<td>And this one is not free either.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
-					<td>29.99</td>
-				</tr>
-				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
-				</tr>
-			</tbody>
-			<tfoot>
-				<tr>
-					<td colspan="2"></td>
-					<td>100.00</td>
-				</tr>
-			</tfoot>
-		</table>
-	</div>
-
-	<h3>Alternate</h3>
-	<div class="table-wrapper">
-		<table class="alt">
-			<thead>
-				<tr>
-					<th>Name</th>
-					<th>Description</th>
-					<th>Price</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Item 1</td>
-					<td>This item costs money.</td>
-					<td>29.99</td>
-				</tr>
-				<tr>
-					<td>Item 2</td>
-					<td>And this one is not free either.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
-					<td>29.99</td>
-				</tr>
-				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
-				</tr>
-			</tbody>
-			<tfoot>
-				<tr>
-					<td colspan="2"></td>
-					<td>100.00</td>
-				</tr>
-			</tfoot>
-		</table>
-	</div>
-
-	<hr />
-
-
-<h1>Press</h1>
+<header class="major">
+	<h1>Press</h1>
+</header>
 
 ## Videos
 
@@ -126,5 +31,10 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 
 ## Articles and Press Releases
 
-<a href="http://archive.signalscv.com/archives/120662/" class="image left"><img src="{{ "/images/signal.jpg" | absolute_url }}" alt="" /></a>
+<br />
 
+<a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/"><b>Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"<b/></a> - March 25, 2016
+    
+<br />
+
+<a href="http://archive.signalscv.com/archives/120662/"><b>Santa Clarita Valley Signal: "SCV eighth-grader scores big"<b/></a> - May 29, 2014
