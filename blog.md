@@ -35,7 +35,7 @@ For orchestra, c. 3'00" - 2016/17
 
 <b>Score is property of the Los Angeles Philharmonic and is unavailable for purchase.</b>
 
-Performed by the Los Angeles Philharmonic at the Walt Disney Concert Hall as a part of the Symphonies for Schools concert series - March 10, 2017.
+Performed by the Los Angeles Philharmonic at the Walt Disney Concert Hall as a part of the Symphonies for Schools concert series, conducted by Christopher Rountree - March 10, 2017.
 
 <hr />
 

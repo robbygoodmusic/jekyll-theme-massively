@@ -21,6 +21,8 @@ Robby’s concert works have been premiered by ensembles such as the Los Angeles
 
 As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and currently studies concert percussion at UCLA with Professors Gregory Goodall and Theresa Dimond.
 
+<hr />
+
 <header class="major">
 	<h1>Press</h1>
 </header>
@@ -28,14 +30,21 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
+    <br />
+    <br />
+Interview with Santa Clarita Valley Signal: "Placerita Jr. High Student Leads 65-piece Orchestra" - May 14, 2014. 
+    <br />
+    <br />
+    <br />
+    
 <hr />
 
 ## Articles and Press Releases
 
 <b><a href="https://www.laphil.com/press/releases/1634">LA Phil/Hollywood Bowl Press Release: "LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus"<b/> - May 5, 2017
 
-<b><a href="https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html">Los Angeles Times : "What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18"<b/> - February 19, 2017
+<b><a href="https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html">Los Angeles Times: "What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18"<b/> - February 19, 2017
     
 <b><a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/">Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"<b/> - March 25, 2016
 
