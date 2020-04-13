@@ -34,6 +34,6 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 ## Articles and Press Releases
 
 
-<a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/"><b>Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"<b/> - March 25, 2016
+<b><a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/">Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"<b/> - March 25, 2016
 
-<a href="http://archive.signalscv.com/archives/120662/"><b>Santa Clarita Valley Signal: "SCV eighth-grader scores big"<b/> - May 29, 2014
+<b><a href="http://archive.signalscv.com/archives/120662/">Santa Clarita Valley Signal: "SCV eighth-grader scores big"<b/> - May 29, 2014
