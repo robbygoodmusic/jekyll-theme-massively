@@ -31,16 +31,16 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Interview with Santa Clarita Valley Signal: <b>"Placerita Jr. High Student Leads 65-piece Orchestra"<b/> - May 14, 2014. 
+Interview with Santa Clarita Valley Signal: <b>"Placerita Jr. High Student Leads 65-piece Orchestra"</b> - May 14, 2014. 
 
 <hr />
 
 ## Articles and Press Releases
 
-<b><a href="https://www.laphil.com/press/releases/1634">LA Phil/Hollywood Bowl Press Release: "LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus"<b/> - May 5, 2017
+<b><a href="https://www.laphil.com/press/releases/1634">LA Phil/Hollywood Bowl Press Release: "LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus"</a></b> - May 5, 2017
 
-<b><a href="https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html">Los Angeles Times: "What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18"<b/> - February 19, 2017
+<b><a href="https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html">Los Angeles Times: "What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18"</a></b> - February 19, 2017
     
-<b><a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/">Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"<b/> - March 25, 2016
+<b><a href="https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/">Santa Clarita Valley Elite Magazine: "Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic"</a></b> - March 25, 2016
 
-<b><a href="http://archive.signalscv.com/archives/120662/">Santa Clarita Valley Signal: "SCV eighth-grader scores big"<b/> - May 29, 2014
+<b><a href="http://archive.signalscv.com/archives/120662/">Santa Clarita Valley Signal: "SCV eighth-grader scores big"</a></b> - May 29, 2014
