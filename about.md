@@ -30,14 +30,9 @@ As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer f
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jIHh2J0rgQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
-    <br />
-    <br />
+
 Interview with Santa Clarita Valley Signal: "Placerita Jr. High Student Leads 65-piece Orchestra" - May 14, 2014. 
-    <br />
-    <br />
-    <br />
-    
+
 <hr />
 
 ## Articles and Press Releases
