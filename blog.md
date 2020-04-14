@@ -21,9 +21,9 @@ sitemap:
 For concert band + solo voice, c. 6'45" - 2018
 
 <b>Both High School Edition and Junior High Edition available:</b>
-<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1bmulgZabJSFoN9NeO7DZH0dQ-6-4CJ_H/view" width="50%" height="200%"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="49%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1DhktpdiWowQ-ZAxogwROqpc0B84X2FWX/view" width="49%" height="200%"></iframe>
 
 <i>"Always In The Music was commissioned as a way of saying goodbye for the retirement of Ms. Kathryn Spula, my music teacher at Placerita Junior High School. Ms. Spula will always hold a place in my heart as the woman that gave me my very first experience of having one of my own pieces played by a group of live musicians (funnily enough, it was an arrangement of music from The Legend of Zelda), and for giving me my first conductor’s baton.
 This piece has two distinct themes - the opening piano solo melody that comes back multiple times throughout the piece, and the Hart High School alma mater, in tribute to the next step in the junior high schoolers’ lives. Also present are a few references to the above- mentioned Legend of Zelda medley I had written for the Placerita ensemble all those years ago.
@@ -89,9 +89,9 @@ For wind ensemble, c. 6'15" - 2016
 
 For SSAATTBB choir, c. 4'00" - 2016
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/789513028&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797880475&color=%23ff5500auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1iBzKcs-PThUSHLz8WJ-J6Qq76jDVsw8O/view" width="50%" height="200%"></iframe>
 
 <i>"This piece was written in dedication to Mr. O, my physical education teacher in eighth grade and one of the most influential and inspirational figures I have ever been lucky enough to have met. The text was written around the phrase "Be Extraordinary," a phrase that he would always tell us and one that I carry with me each and every day."</i>
  <br />

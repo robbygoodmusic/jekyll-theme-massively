@@ -19,7 +19,7 @@ sitemap:
 
 For marimba + vibraphone, c. 4'00" - 2019
 
-<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1MLcLk2D0NONodZk5KxE-EfbKll6t2CcI/view" width="50%" height="200%"></iframe>
 
 <i>"This piece was written in dedication to my grandfather, James Kessinger, who passed away on October 27, 2019."</i>
 
@@ -29,9 +29,9 @@ For marimba + vibraphone, c. 4'00" - 2019
 
 For clarinet, violin and cello, c. 8'00" - 2018/19
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786545131&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/798004972&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1I0sr0fVZyDakPEoETyIRLAyfOcGGBfhe/view" width="50%" height="200%"></iframe>
 
 <b>Performed by Winsor Music at UCLA - March 4, 2019.</b>
 
@@ -41,9 +41,9 @@ For clarinet, violin and cello, c. 8'00" - 2018/19
 
 For pierrot ensemble + percussion, c. 6'00" - 2018
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/789513028&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/798007606&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1hsUpUTj6oytLGktJ_TdG0o8X_lNQW0HX/view" width="50%" height="200%"></iframe>
 
 <i>"The Combine is a piece inspired by Ken Kesey’s realistic fiction novel One Flew Over the Cuckoo’s Nest. Within the story, “the Combine” is used as a sort of overarching allegory for the real world, as seen from the perspective of the mentally disturbed main character. Within the piece, each instrument, aside from the piano, fills a sort of role as a loose representation of the characters within the story.T he piano, in turn, serves as a sort of tone setter throughout the piece, staying more towards the back of the ensemble. The piece essentially highlights the power struggle between the flute, the instrument attempting to force the ensemble into a strict monotonous groove, and the cello, which attempts to disrupt the strict motion of the piece and turn it on its head metrically, tonally, and colorfully. The Combine is meant to serve less as a direct retelling of Ken Kesey’s story, but more of a quick symbolic reimagining."</i>
 
@@ -55,9 +55,9 @@ For pierrot ensemble + percussion, c. 6'00" - 2018
 
 For oboe, bassoon, viola and bass, c. 6'15" - 2017
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/789503800&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/798002935&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/13Mm2sOrlo6C9r6M6iD94o7Ku-fgdZ2HU/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1WwKnSuYxrvOF3hle7JQsrWznic2j9tLf/view" width="50%" height="200%"></iframe>
 
 <b>Performed by members of the Kaleidoscope Chamber Orchestra at the Walt Disney Concert Hall (Choral Hall) - January 27, 2018.</b>
 
@@ -67,9 +67,9 @@ For oboe, bassoon, viola and bass, c. 6'15" - 2017
 
 For string quartet, c. 5'30" - 2017
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/789513028&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797885518&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/162z3zqbHFq77XVieFyNMWBbBK_cfsOVN/view" width="50%" height="200%"></iframe>
 
 <b>Read by the Calder String Quartet at the Walt Disney Concert Hall (BP Hall) - March 18, 2017.</b>
 
@@ -79,11 +79,11 @@ For string quartet, c. 5'30" - 2017
 
 For percussion quartet, c. 5'30" - 2016
 
-<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/789513028&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
+<iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797883481&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/192QSPZiLmRJwld6ynX-gx9SJA8vfDE1s/view" width="50%" height="200%"></iframe>
 
-<i>“Adventures in Light” is a piece meant to be seen as a cycle, much as light and darkness themselves are an endless cycle, beginning with light, followed by the envelopment of a slowly encroaching darkness, and beginning once more after the slow rise of light once more. The piece is meant to be free, felt, and flexible, so, as notated throughout the piece, many of the effects act as “rise and fall” elements. Light is represented by the note A, particularly the A above middle C. Throughout the entirety of the first and second movements, the pitch of A is always present, but throughout the third and fourth movements, A is never seen until the end, meant to represent the beginning of the piece once again and the return of the light. The idea of darkness is represented by the opposite spectrum: lower marimba sounds and uncertain, harsh drumming rhythms. Darkness also contains a recurring note in that of Eb, the farthest note from A. In summary, the idea of the piece is to create contrast between that of the light and dark worlds.</i>
+<i>“Adventures in Light is a piece meant to be seen as a cycle, much as light and darkness themselves are an endless cycle, beginning with light, followed by the envelopment of a slowly encroaching darkness, and beginning once more after the slow rise of light once more. The piece is meant to be free, felt, and flexible, so, as notated throughout the piece, many of the effects act as “rise and fall” elements. Light is represented by the note A, particularly the A above middle C. Throughout the entirety of the first and second movements, the pitch of A is always present, but throughout the third and fourth movements, A is never seen until the end, meant to represent the beginning of the piece once again and the return of the light. The idea of darkness is represented by the opposite spectrum: lower marimba sounds and uncertain, harsh drumming rhythms. Darkness also contains a recurring note in that of Eb, the farthest note from A. In summary, the idea of the piece is to create contrast between that of the light and dark worlds."</i>
 
 <b>Performed by the Los Angeles Percussion Quartet at the REDCAT - October 2, 2016.</b>
 
@@ -95,7 +95,7 @@ For bass flute + loop pedal, c. 3'45" - 2016
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1suRCBrMuaI?start=943" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="400%"></iframe>
+<iframe src="https://drive.google.com/file/d/1Pas4QocotvHiatmu_cnUb-b0DsXzCA0U/view" width="50%" height="400%"></iframe>
 
 <b>Performed by Alice Teyssier from the International Contemporary Ensemble (ICE) at the Libbey Bowl as a part of the Ojai Music Festival - June 12, 2016.</b>
 
