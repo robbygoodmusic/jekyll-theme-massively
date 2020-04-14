@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - Blog Page - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+title: Concert Works - Robby Good Music
+description: Music for orchestra and concert performances
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
