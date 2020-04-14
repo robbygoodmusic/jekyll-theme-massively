@@ -40,7 +40,7 @@ For wind ensemble, c. 8'00" - 2017/18
 <iframe src="https://drive.google.com/file/d/1npg1aU3aK_KmObPCgf1tvvCwIfWtJvi8/preview" width="50%" height="200%"></iframe>
 
 <i>"Syzygy is a rare word, usually found as an astronomical term. It is defined as “the alignment of three celestial bodies,” typically in reference to the Earth, the Moon, and the Sun, such as in the form of a full moon, a new moon, or, in this particular case, an eclipse. On August 21, 2017, the entirety of North America and regions of the neighboring countries and continents stopped to bare witness to a total solar eclipse, an event that is about as rare as the title of this piece. In that small window of time, there was an incredible unity of mankind, all sharing a single, beautiful moment together in this giant shadow. After that event, I realized that music was the perfect parallel: when people listen to music, for that brief moment, they let themselves out of their shackles and put aside their judgments to allow their emotions to escape. In summation, that is exactly what music can so easily be: a momentary escape into absolute freedom. During this astronomical alignment, this “syzygy,” everybody seemed to have the same idea, and really, what a great idea it was. After all, what better place could someone choose to escape all of their problems in than space?"</i>
- <br />
+
 <b>Performed by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel at the Younes and Soraya Nazarian Center for the Performing Arts - November 29, 2018.</b>
 
 <hr />
@@ -66,7 +66,7 @@ For SSA choir + piano, c. 4'00" - 2016
 <iframe src="https://drive.google.com/file/d/1SnTY6bUS_WBwSdNkwRXSJBxK_aZMtW-s/preview" width="50%" height="200%"></iframe>
 
 <i>"Cry For Love is a piece written to reach people in a purely emotional sense. When dealing with the hardships of life, it can be difficult to see the light at the end of the tunnel, and yet so easy to give up and think of past mistakes, to have to weave through a constant barrage of hardship and difficulty. In the end, it may eventually even feel as though struggle and gradual suffering is the norm, but there is always a time of passing, and to embrace that moment where we can move on and see the happiness and beauty again, we must have that will to change. By finding forms of emotional expression, for any and every individual person in the world, we can let those feelings of chaos and distraught fade away, and replace them with our own inner happiness and warmth and, most of all, love. There is no sense in looking into the past for answers, when the present is here and now, and within the present, we can find the change in ourselves needed to make a better future, because love is, and has always been, the answer."</i>
- <br />
+
 <b>Performed by the National Children's Chorus (Los Angeles Division) under Assistant Conductor Alexander Lloyd Blake at Royce Hall (UCLA) - May 10, 2017.</b>
 
 <hr />
@@ -80,7 +80,7 @@ For wind ensemble, c. 6'15" - 2016
 <iframe src="https://drive.google.com/file/d/13Mm2sOrlo6C9r6M6iD94o7Ku-fgdZ2HU/preview" width="50%" height="200%"></iframe>
 
 <i>"One can imagine a sunlit horizon, with a calm and warm melody, and slowly, it is overtaken by gradually rolling clouds, foreshadowing what is to come. Suddenly, the storm attacks; lightning strikes, thunder claps, wind whips at the landscape, and all of the light is blocked out by a thick, dark ceiling of clouds. Soon, the storm rages into a controlled downpour, and in the eye of the storm, one can see all the chaos around them. Then, as the final bolt of lightning strikes the ground, a blinding flash fills the air, and as the world returns once again, the rain has stopped, the intensity has vanished, and all seems anew. The clouds begin to part, and beams of light pass through onto the world around, a feeling of rebirth surrounding. Finally, the clouds part, and above the blazing setting sun shines a rainbow as glorious and colorful as one can be."</i>
- <br />
+
 <b>Performed by the California State University, Northridge (CSUN) Wind Ensemble under Professor Larry Stoffel at the Plaza Del Sol Performance Hall - November 29, 2016.</b>
 
 <hr />
@@ -94,5 +94,5 @@ For SSAATTBB choir, c. 4'00" - 2016
 <iframe src="https://drive.google.com/file/d/1iBzKcs-PThUSHLz8WJ-J6Qq76jDVsw8O/preview" width="50%" height="200%"></iframe>
 
 <i>"This piece was written in dedication to Mr. O, my physical education teacher in eighth grade and one of the most influential and inspirational figures I have ever been lucky enough to have met. The text was written around the phrase "Be Extraordinary," a phrase that he would always tell us and one that I carry with me each and every day."</i>
- <br />
+
 <b>Performed by members of the Los Angeles Master Chorale under Luke McEndarfer inside the Dorothy Chandler Pavilion - May 21, 2016.</b>
