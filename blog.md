@@ -93,6 +93,6 @@ For SSAATTBB choir, c. 4'00" - 2016
 
 <iframe src="https://drive.google.com/file/d/1iBzKcs-PThUSHLz8WJ-J6Qq76jDVsw8O/preview" width="50%" height="200%"></iframe>
 
-<i>"This piece was written in dedication to Mr. O, my physical education teacher in eighth grade and one of the most influential and inspirational figures I have ever been lucky enough to have met. The text was written around the phrase "Be Extraordinary," a phrase that he would always tell us and one that I carry with me each and every day."</i>
+<i>"This piece was written in dedication to Mr. O, my physical education teacher in eighth grade and one of the most influential and inspirational figures I have ever been lucky enough to have met. The text was written around the stories he would tell us of his own life, and the phrase "Be Extraordinary," a phrase that he would always tell us and one that I carry with me each and every day."</i>
 
 <b>Performed by members of the Los Angeles Master Chorale under Luke McEndarfer inside the Dorothy Chandler Pavilion - May 21, 2016.</b>
