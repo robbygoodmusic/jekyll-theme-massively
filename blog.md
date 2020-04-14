@@ -91,7 +91,7 @@ For SSAATTBB choir, c. 4'00" - 2016
 
 <iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797880475&color=%23ff5500auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1iBzKcs-PThUSHLz8WJ-J6Qq76jDVsw8O/view" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/1iBzKcs-PThUSHLz8WJ-J6Qq76jDVsw8O/preview" width="50%" height="200%"></iframe>
 
 <i>"This piece was written in dedication to Mr. O, my physical education teacher in eighth grade and one of the most influential and inspirational figures I have ever been lucky enough to have met. The text was written around the phrase "Be Extraordinary," a phrase that he would always tell us and one that I carry with me each and every day."</i>
  <br />
