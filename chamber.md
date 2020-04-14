@@ -69,7 +69,7 @@ For string quartet, c. 5'30" - 2017
 
 <iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/797885518&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
-<iframe src="https://drive.google.com/file/d/162z3zqbHFq77XVieFyNMWBbBK_cfsOVN/view" width="50%" height="200%"></iframe>
+<iframe src="https://drive.google.com/file/d/162z3zqbHFq77XVieFyNMWBbBK_cfsOVN/preview" width="50%" height="200%"></iframe>
 
 <b>Read by the Calder String Quartet at the Walt Disney Concert Hall (BP Hall) - March 18, 2017.</b>
 
