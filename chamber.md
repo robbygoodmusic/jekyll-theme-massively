@@ -27,7 +27,7 @@ For marimba + vibraphone, c. 4'00" - 2019
 
 ## glass moonlight
 
-For clarinet, violin and cello, c. 8'00" - 2018/19
+For clarinet, violin and cello, c. 8'15" - 2018/19
 
 <iframe width="49%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/798004972&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=false"></iframe>
 
