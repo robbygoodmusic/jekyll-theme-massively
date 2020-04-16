@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/headshot.jpg" | absolute_url }}" alt="" /></span>
 
-Robby Good (b. July 2, 2000, Valencia, CA) is a composition and percussion performance major at UCLA. Robby has been playing piano from the age of 6, picking up percussion at age 9, and composing at the age of 12. During high school, he was accepted into the Nancy and Barry Sanders Los Angeles Philharmonic Composer Fellowship Program, where he studied under Andrew Norman (USC/Juilliard) and Sarah Gibson (USC/UCSB). Robby has also studied with Ian Krouse (UCLA), Derrick Spiva (Bridge to Everywhere), and David Lefkowitz (UCLA), and has been a music production mentee under the guidance of visual media composer/performer Michael A. Levine.
+Robby Good (b. July 2, 2000, Valencia, CA) is an undergraduate composition and percussion performance major at UCLA. Robby has been playing piano from the age of 6, picking up percussion at age 9, and composing at the age of 12. During high school, he was accepted into the Nancy and Barry Sanders Los Angeles Philharmonic Composer Fellowship Program, where he studied under Andrew Norman (USC/Juilliard) and Sarah Gibson (USC/UCSB). Robby has also studied with Ian Krouse (UCLA), Derrick Spiva (Bridge to Everywhere), and David Lefkowitz (UCLA), and has been a music production mentee under the guidance of visual media composer/performer Michael A. Levine.
 
 <span class="image right"><img src="{{ "/images/vibes.PNG" | absolute_url }}" alt="" /></span>
 
