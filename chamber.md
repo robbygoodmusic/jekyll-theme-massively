@@ -93,7 +93,7 @@ For percussion quartet, c. 5'30" - 2016
 
 For bass flute + loop pedal, c. 3'45" - 2016
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1suRCBrMuaI?start=943" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/1suRCBrMuaI?start=943" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://drive.google.com/file/d/1Pas4QocotvHiatmu_cnUb-b0DsXzCA0U/preview" width="49%" height="400%"></iframe>
 
