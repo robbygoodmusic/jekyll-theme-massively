@@ -25,12 +25,12 @@ author: Robby Good
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://robbygoodmusic.github.io'
+url: 'https://robbygoodmusic.com'
 baseurl:
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/woof84/kianravaei/robbygoodmusic/edit/gh-pages
+improve_content: https://github.com/robbygoodmusic/robbygoodmusic.com
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/woof84/kianravaei/robbygoodmusic/edit/gh-pag
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://robbygoodmusic.github.io/images/'
+urlimg: 'https://robbygoodmusic.com/images/'
 
 
 # Logo size is 600x80 pixels
